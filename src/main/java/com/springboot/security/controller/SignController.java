@@ -3,7 +3,6 @@ package com.springboot.security.controller;
 import com.springboot.security.data.dto.SignInResultDto;
 import com.springboot.security.data.dto.SignUpResultDto;
 import com.springboot.security.service.SignService;
-import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiParam;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
